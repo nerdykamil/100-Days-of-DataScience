@@ -6,4 +6,7 @@ and Abhijit.
 I usually work on computer vision projects and thought of learning data science on my own. Hope its helpful.
 
 Day 1: Importing and Exploring data on R
+Code: https://github.com/nerdykamil/100-Days-of-DataScience/tree/master/chapter2
+
+
 
